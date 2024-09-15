@@ -4,6 +4,7 @@ import { Context } from '../main';
 import Loader from '../components/Loader';
 const Profile = () => {
   const {isAuthenticated,loading,user}=useContext(Context);
+  console.log(user.name);
   return (
     loading?<Loader/>:
       <div>
