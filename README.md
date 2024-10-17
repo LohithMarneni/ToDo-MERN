@@ -1,5 +1,7 @@
 # ToDo-MERN
-
+<p align="center">
+  <img src="todo.png" alt="Home Page" width="600" style="border: 2px solid #ccc; border-radius: 15px;">
+</p>
 This is a ToDo list application built using the MERN stack (MongoDB, Express, React, Node.js). It allows users to create, update, and delete tasks, providing a simple interface to manage daily tasks.
 
 ## Features
@@ -9,7 +11,9 @@ This is a ToDo list application built using the MERN stack (MongoDB, Express, Re
 - Backend REST API with Express and Node.js
 - MongoDB for data storage
 - Frontend built with React
-
+<p align="center">
+  <img src="login_todo.png" alt="Home Page" width="600" style="border: 2px solid #ccc; border-radius: 15px;">
+</p>
 ## Installation
 1. Clone the repository:
    ```bash
